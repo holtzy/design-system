@@ -1,5 +1,8 @@
 {
-  "name": "design-system",
+  "name": "@holtzy/design-system",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/holtzy"
+  },
   "version": "0.0.1",
   "description": "A library of react components: the design system of Yan Holtz websites",
   "scripts": {
